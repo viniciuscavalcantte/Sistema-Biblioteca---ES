@@ -25,4 +25,4 @@ O projeto é organizado em quatro classes principais:
 - `Emprestimo`: Representa um empréstimo de livro, relacionando um estudante, um livro e a data de empréstimo.
 
 - `AppJava`: É a classe principal que contém a lógica do programa. Ela inclui funções para cadastrar estudantes, cadastrar livros, realizar empréstimos, listar empréstimos e gerar relatórios.
-- ![Diagrama UML] (https://github.com/viniciuscavalcantte/Sistema-Biblioteca---ES/blob/main/Diagrama%20UML%20ES.png)
+- ![Diagrama UML] (https://github.com/viniciuscavalcantte/Sistema-Biblioteca---ES/blob/main/Diagrama%20UML%20ES.png?raw=true)
